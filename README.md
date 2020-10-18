@@ -14,4 +14,6 @@ Esta carpeta contiene una simple aplicacion de logueo e ingreso de datos de auto
 ## Autoscrud
 Esta carpeta contiene una apliación completa de manejo de una base de datos de autos, en la cual se puede realizar el CRUD completo de la misma. Además, se realiza todas las comprobaciones necesarias para que la aplicación web sea segura debido a que se toma en cuenta vulnerabilidades web como: HTMLInjection, SQLInjection, Redireccion de URL y Cross Site Scripting.
 
-
+## Res-education-Final-Project
+Esta carpeta contiene una apliación completa de manejo de una base de datos de Perfiles profesionales, en la cual se puede realizar el CRUD completo de la misma.
+El algunas partes se hace uso de javascript y jquery para manipular el DOM dinámicamente.
